@@ -1,2 +1,2 @@
-# restaurante
-Trabalho de falculdade
+# Restaurante
+Projeto desenvolvido para um trabalho da faculdade
